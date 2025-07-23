@@ -35,3 +35,31 @@ Loops (while, do-while)
 Functions/methods for clean structure
 
 Basic user interface in the console
+
+OUTPUT:
+Welcome to the Number Guessing Game!
+How many rounds would you like to play? 4
+
+? Round 1 begins!
+Enter your guess (1?100): 50
+? Too low!
+Attempts left: 6
+Enter your guess (1?100): 60
+? Too high!
+Attempts left: 5
+Enter your guess (1?100): 69
+? Too high!
+Attempts left: 4
+Enter your guess (1?100): 80
+? Too high!
+Attempts left: 3
+Enter your guess (1?100): 40
+? Too low!
+Attempts left: 2
+Enter your guess (1?100): 35
+? Too low!
+Attempts left: 1
+Enter your guess (1?100): 90
+? Too high!
+Attempts left: 0
+? You're out of attempts! The correct number was 53.
